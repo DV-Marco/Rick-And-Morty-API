@@ -1,2 +1,2 @@
-# Rick-And-Morty-API
+# React-SandBox
 Created with CodeSandbox
